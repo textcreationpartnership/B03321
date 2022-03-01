@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Gulielmi et Mariæ regis et reginæ Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ primo. On the sixteenth day of December, anno Dom. 1689. In the first year of their Majesties reign, this act passed the royal assent.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03321</idno>
+            <idno type="STC">Wing E987A</idno>
+            <idno type="STC">ESTC R176267</idno>
+            <idno type="EEBO-CITATION">52212023</idno>
+            <idno type="OCLC">ocm 52212023</idno>
+            <idno type="VID">175666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175666)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Gulielmi et Mariæ regis et reginæ Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ primo. On the sixteenth day of December, anno Dom. 1689. In the first year of their Majesties reign, this act passed the royal assent.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Richard Wilde, and are to be sold at his shop in Cork-Change,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With royal coat of arms on title page.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175666:1"/>
+            <pb facs="tcp:175666:1" rendition="simple:additions"/>
+            <p>ANNO REGNI GULIELMI ET MARIAE, REGIS ET REGINAE <hi>Angliae, Scotiae, Franciae &amp; Hiberniae,</hi> PRIMO.</p>
+            <p>On the Sixteenth Day of <hi>December, Anno Dom.</hi> 1689. In the Firſt year of Their Majeſties Reign, this Act Paſſed the Royal Aſſent.</p>
+            <figure>
+               <head>R<figure>
+                     <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                  </figure>R</head>
+               <q xml:lang="frm">IE MEINTIENDRAY </q>
+               <q xml:lang="frm">HONI SOIT QUI MAL Y PENSE</q>
+               <figDesc>royal blazon flanked by lion and unicorn</figDesc>
+            </figure>
+            <p>
+               <hi>Dublin:</hi> Re-Printed by <hi>Richard Wilde,</hi> and are to be Sold at his Shop in <hi>Cork-Change.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:175666:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:175666:2"/>
+            <head>IN THE FIRST YEAR OF KING WILLIAM AND QUEEN MARY</head>
+            <head type="sub">
+               <hi>An</hi> Act <hi>Declaring the Rights and Liberties of the Subject, and Settling the Succeſſion of the Crown.</hi>
+            </head>
+            <p>WHEREAS the Lords Spiritual and Temporal, and Commons Aſ<g ref="char:EOLhyphen"/>ſembled at <hi>Weſtminſter,</hi> Lawful<g ref="char:EOLhyphen"/>ly, Fully, and Freely Repreſenting all the Eſtates of the People of this Realm, did upon the Thirteenth day of <hi>February,</hi> in the Year of our Lord One Thouſand Six Hundred
+<pb n="2" facs="tcp:175666:3"/>Eighty Eight, Preſent unto Their Majeſties, then called and known by the Names and Style of <hi>William</hi> and <hi>Mary,</hi> Prince and Princeſs of <hi>Orange,</hi> being preſent in their proper Per<g ref="char:EOLhyphen"/>ſons, a certain Declaration in Writing, made by the ſaid Lords and Commons in the words following: <hi>Viz.</hi>
+            </p>
+            <p>WHereas the Late King <hi>James</hi> the Second, by the Aſſiſtance of divers Evil Councellors, Judges and Miniſters Employed by him, did endeavour to Subvert and Extirpate the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and the Laws and Liberties of this Kingdom;</p>
+            <p>By Aſſuming and Exerciſing a Power of Diſpenſing with, and Suſpending of Laws, and the Execution of Laws, without Conſent of Parliament.</p>
+            <p>By Committing and Proſecuting divers Worthy Pre<g ref="char:EOLhyphen"/>lates, for humbly Petitioning to be Excuſed from Con<g ref="char:EOLhyphen"/>curring to the ſaid Aſſumed Power.</p>
+            <p>By Iſſuing, and Cauſing to be Executed a Commiſ<g ref="char:EOLhyphen"/>ſion under the Great Seal, for Erecting a Court called, <hi>The Court of Commiſſioners for Eccleſiaſtical Cauſes.</hi>
+            </p>
+            <p>By Levying Money for, and to the Uſe of the Crown by Pretence of Prerogative, for other Time, and in other Manner then the was ſame Granted by Parliament.</p>
+            <pb n="3" facs="tcp:175666:3"/>
+            <p>By Raiſing and Keeping a Standing Army within this Kingdom in time of Peace, without Conſent of Parliament, and Quartering Souldiers contrary to Law.</p>
+            <p>By Cauſing good Subjects, being Proteſtants, to be diſarmed at the ſame time, when Papiſts were both Ar<g ref="char:EOLhyphen"/>med and Employed, contrary to Law.</p>
+            <p>By Violating the Freedom of Election of Members to ſerve in Parliament.</p>
+            <p>By Proſecutions in the Court of Kings Bench, for Matters and Cauſes cognizable only in Parliament; and by divers other Arbitrary and Illegal Courſes.</p>
+            <p>And whereas of late years Partial, Corrupt, and Un<g ref="char:EOLhyphen"/>qualified Perſons, have been Returned and Served on Ju<g ref="char:EOLhyphen"/>ries in Trials, and particularly divers. Jurors in Trials for High Treaſon, which were not Freeholders.</p>
+            <p>And Exceſſive Bail hath been required of Perſons Committed in Criminal Caſes, to elude the Benefit of the Laws made for the Liberty of the Subjects.</p>
+            <p>And exceſſive Fines have been impoſed.</p>
+            <p>And illegal and cruel Puniſhments inflicted.</p>
+            <p>And ſeveral grants and promiſes made of Fines and Forfeitures, before any Conviction or Judgment againſt the Perſons, upon whom the ſame were to be Le<g ref="char:EOLhyphen"/>vyed.</p>
+            <pb n="4" facs="tcp:175666:4"/>
+            <p>All which are utterly and directly contrary to the known Laws and Statutes, and Freedom of this Realm.</p>
+            <p>And whereas the ſaid late King <hi>James</hi> the Second having Abdicated the Government, and the Throne being thereby Vacant,</p>
+            <p>His Highneſs the Prince of <hi>Orange,</hi> (whom it hath pleaſed Almighty God to make the Glorious Inſtru<g ref="char:EOLhyphen"/>ment of Delivering this Kingdom from Popery and Arbitrary Power) did (by the Advice of the Lords Spiritual and Temporal, and divers Principal Per<g ref="char:EOLhyphen"/>ſons of the Commons) cauſe Letters to be writ<g ref="char:EOLhyphen"/>ten to the Lords Spiritual and Temporal, being Pro<g ref="char:EOLhyphen"/>teſtants; and other Letters to the ſeveral Counties, Cities, Univerſities, Boroughs, and Cinque-Ports, for the Chooſing of ſuch Perſons to Repreſent them, as were of Right to be ſent to Parliament, to meet and ſit at <hi>Weſtminſter,</hi> upon the Two and Twenti<g ref="char:EOLhyphen"/>eth day of <hi>January,</hi> in this Year One Thouſand Six Hundred Eighty and Eight, in order to ſuch an Eſtabliſh<g ref="char:EOLhyphen"/>ment, as that their Religion, Laws and Liberties might not again be in danger of being ſubverted: Upon which Letters Elections having been accordingly made,</p>
+            <p>And thereupon the ſaid Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral, and Commons, purſuant to their reſpective Letters and Elections, being now Aſſembled in a full and free Repreſentative of this Nation, taking into their moſt ſerious Conſideration the beſt Means for attaining the Ends aforeſaid; Do in the firſt place (as their Anceſtors in like Caſe have uſually done) for
+<pb n="5" facs="tcp:175666:4"/>the Vindicating and Aſſerting their Ancient Rights and Liberties, Declare;</p>
+            <p>That the pretended Power of Suſpending of Laws, or the Execution of Laws by Regal Authority, with<g ref="char:EOLhyphen"/>out Conſent of Parliament, is Illegal.</p>
+            <p>That the pretended Power of Diſpenſing with Laws, or the Execution of Laws, by Regal Au<g ref="char:EOLhyphen"/>thority, as it hath been Aſſumed and Exerciſed of late, is Illegal.</p>
+            <p>That the Commiſſion for Erecting the late Court of Commiſſioners for Eccleſiaſtical Cauſes, and all other Commiſſions and Courts of like nature, are Illegal and Pernicious.</p>
+            <p>That the Levying Money for, or to the Uſe of the Crown, by pretence of Prerogative, without Grant of Parliament, for longer time, or in other manner, then the ſame is or ſhall be granted, is Illegal.</p>
+            <p>That it is the Right of the Subjects to Petition the King, and all Commitments and Proſecutions for ſuch Petitioning, are Illegal.</p>
+            <p>That the raiſing or keeping a ſtanding Army with<g ref="char:EOLhyphen"/>in the Kingdom, in time of Peace, unleſs it be with Conſent of Parliament, is againſt Law.</p>
+            <p>That the Subjects which are Proteſtants, may have Arms for their Defence, ſuitable to their Conditions, and as allowed by Law.</p>
+            <pb n="6" facs="tcp:175666:5"/>
+            <p>That Election of Members of Parliament ought to be free.</p>
+            <p>That the Freedom of Speech, and Debates or Pro<g ref="char:EOLhyphen"/>ceedings in Parliament, ought not to be impeached, or queſtioned in any Court or Place out of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>That Exceſſive Bail ought not to be required, nor exceſſive Fines impoſed, nor Cruel and Unuſual Puniſh<g ref="char:EOLhyphen"/>ments inflicted.</p>
+            <p>That Jurors ought to be duly Impannelled, and Re<g ref="char:EOLhyphen"/>turned, and Jurors which paſs upon Men in Trials for High-Treaſon, ought to be Free-holders.</p>
+            <p>That all Grants and Promiſes of Fines and Forfeitures of particular Perſons before Conviction, are Illegal and Void.</p>
+            <p>And that for Redreſs of all Grievances, and for the Amending, Strengthening, and Preſerving of the Laws, Parliaments ought to be held frequently.</p>
+            <p>And they do Claim, Demand, and Inſiſt upon all and ſingular the Premiſſes, as their Undoubted Rights and Liberties; and that no Declarations, Judgments, Doings, or Proceedings, to the Prejudice of the Peo<g ref="char:EOLhyphen"/>ple in any of the ſaid Premiſes, ought in any wiſe to be drawn hereafter into Conſequence or Exam<g ref="char:EOLhyphen"/>ple.</p>
+            <p>
+               <pb n="7" facs="tcp:175666:5"/>
+To which Demand of their Rights, they are par<g ref="char:EOLhyphen"/>ticularly Encouraged by the Declaration of His High<g ref="char:EOLhyphen"/>neſs the Prince of <hi>Orange,</hi> as being the only means for obtaining a full Redreſs and Remedy therein.</p>
+            <p>Having therefore an intire Confidence, That his ſaid Highneſs the Prince of <hi>Orange</hi> will perfect the Deliverance ſo far advanced by him, and will ſtill preſerve them from the Violation of their Rights, which they have here Aſſerted, and from all other Attempts upon their Religion, Rights and Li<g ref="char:EOLhyphen"/>berties.</p>
+            <p>The ſaid Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons Aſſembled at <hi>Weſtminſter</hi> do reſolve,</p>
+            <p>That <hi>William and Mary</hi> Prince and Princeſs of <hi>O<g ref="char:EOLhyphen"/>range</hi> be, and be Declared, King and Queen of <hi>England, France</hi> and <hi>Ireland,</hi> and the Dominions thereunto be<g ref="char:EOLhyphen"/>longing, to hold the Crown and Royal Dignity of the ſaid Kingdoms and Dominions, to them the ſaid Prince and Princeſs, during their Lives, and the Life of the Survivor of them; And that the Sole and full Exerciſe of the Regal Power be only in, and executed by the ſaid Prince of <hi>Orange,</hi> in the Names of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Prince and Princeſs during their joint Lives; a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> after their Deceaſes, the ſaid Crown and Royal Dignity of the ſaid Kingdoms and Dominions to be to the Heirs of the Body of the ſaid Princeſs; And for default of ſuch Iſſue, to the Princeſs <hi>Anne</hi> of <hi>Denmark,</hi> and the Heirs of her Body; And for default of ſuch Iſſue to the Heirs of the Body of the ſaid Prince of <hi>Orange.</hi>
+            </p>
+            <pb n="8" facs="tcp:175666:6"/>
+            <p>And the Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons, do pray the ſaid Prince and Princeſs to accept the ſame accordingly.</p>
+            <p>And that the Oaths hereafter mentioned be taken by all perſons of whom the Oaths of Allegiance and Supremacy might be required by Law, inſtead of them; And that the ſaid Oaths of Allegiance and Supremacy be abrogated.</p>
+            <p>
+               <q>I <hi>A. B.</hi> Do ſincerely Promiſe and Swear, That I will be Faithful, and bear true Al<g ref="char:EOLhyphen"/>legiance to their Majeſties, King <hi>WILLIAM</hi> and Queen <hi>MARY; So help me God.</hi>
+               </q>
+            </p>
+            <q>
+               <p>I <hi>A. B.</hi> Do ſwear, That I do from my Heart Abhor, Deteſt and Abjure, as Impious and Heretical this damnable Doctrine and Poſition, that Princes Excomunicated or De<g ref="char:EOLhyphen"/>prived by Pope, or any Authority of the See of <hi>Rome,</hi> may be Depoſed or Murdered by their Subjects, or any other whatſoever.</p>
+               <p>And I do Declare, That no Foreign Prince, Perſon, Prelate, State or Potentate, hath, or ought to have any Juriſdiction, Power, Supe<g ref="char:EOLhyphen"/>riority,
+<pb n="9" facs="tcp:175666:6"/>Preeminence or Authority, Eccleſiaſti<g ref="char:EOLhyphen"/>cal or Spiritual, within this Realm; <hi>So help me God.</hi>
+               </p>
+            </q>
+            <p>Upon which their ſaid Majeſties did Accept the Crown and Royal Dignity of the King<g ref="char:EOLhyphen"/>doms of <hi>England, France,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, accor<g ref="char:EOLhyphen"/>ding to the Reſolution and Deſire of the ſaid Lords and Commons, contained in the ſaid Declaration.</p>
+            <p>And thereupon Their Majeſties were pleaſed, That the ſaid Lords Spiritual and Temporal, and Commons, being the Two Houſes of Parliament, ſhould continue to Sit, and with Their Majeſties Royal Concurrence make effectuall Proviſion for the Settlement of the Re<g ref="char:EOLhyphen"/>ligion, Laws and Liberties of this Kingdom, ſo that the ſame for the future might not be in danger again of being Subverted; To which the ſaid Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal, and Commons, did Agree and Proceed to Act accordingly.</p>
+            <p>Now in purſuance of the Premiſſes, the ſaid Lords Spiritual and Temporal, and Commons in Parliament Aſſembled, for the Ratifying, Confirming and Eſtabli<g ref="char:EOLhyphen"/>ſhing the ſaid Declaration, and the Articles, Clauſes, Matters and Things therein contained, by the Force of a Law made in due Form by Authority of Parliament, do Pray that it may be Declared and Enacted, That all and ſingular Rights and Liberties Aſſerted and Clai<g ref="char:EOLhyphen"/>med
+<pb n="10" facs="tcp:175666:7"/>in the ſaid Declaration, are the True, Ancient, and Indubitable Rights and Liberties of the People of this Kingdom, and ſo ſhall be Eſteemed, Allowed, Adjudged, Deemed and Taken to be; And that all and every the Particulars aforeſaid, ſhall be Firmly and Strictly Hol<g ref="char:EOLhyphen"/>den and Obſerved, as they are expreſſed in the ſaid De<g ref="char:EOLhyphen"/>claration; And all Officers and Miniſters whatſoever, ſhall Serve their Majeſties and Their Succeſſors ac<g ref="char:EOLhyphen"/>cording to the ſame in all times to come.</p>
+            <p>And the ſaid Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons, Seriouſly Conſidering how it hath pleaſed Al<g ref="char:EOLhyphen"/>mighty God, in his Marvellous Providence, and Merci<g ref="char:EOLhyphen"/>ful Goodneſs to this Nation, to provide and Preſerve Their ſaid Majeſties Royal Perſons moſt happily to Reign over us upon the Throne of Their Anceſtors, for which they render unto Him from the bottom of their Hearts their humbleſt Thanks and Praiſes, do Truly, Firmly, Aſſuredly, and in the Sincerity of their Hearts Think, and do hereby Recognize, Acknowledge and Declare, that King <hi>James</hi> the Second having Ab<g ref="char:EOLhyphen"/>dicated the Government, and Their Majeſties having Accepted the Crown and Royal Dignity, as aforeſaid, Their ſaid Majeſties did become, were, are, and of Right ought to be, by the Laws of this Realm, our Sove<g ref="char:EOLhyphen"/>reign Leige Lord and Lady, King and Queen of <hi>England, France</hi> and <hi>Ireland,</hi> and the Dominions thereunto be<g ref="char:EOLhyphen"/>longing, in and to whoſe Princely Perſons, the Royal State, Crown and Dignity of the ſaid Realms, with all Honours, Styles, Titles, Regalities, Prerogatives, Pow<g ref="char:EOLhyphen"/>ers, Juriſdictions and Authorities to the ſame belong<g ref="char:EOLhyphen"/>ing and appertaining, are moſt Fully, Rightfully and Intirely Inveſted and Incorporated, United and Annexed.</p>
+            <p>
+               <pb n="11" facs="tcp:175666:7"/>
+And for preventing all Queſtions and Diviſions in this Realm, by reaſon of any pretended Titles to the Crown, and for Preſerving a Certainty in the Succeſſion thereof, in and upon which the Unity, Peace, Tran<g ref="char:EOLhyphen"/>quility and Saſety of this Nation doth under God, wholly Conſiſt and Depend, The ſaid Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral, and Commons, do Beſeech their Majeſties, that it may be Enacted, Eſtabliſhed and Declared, That the Crown and Regal Government of the ſaid Kingdoms and Dominions, with all and Singular the Premiſſes thereunto belonging and appertaining, ſhall be and con<g ref="char:EOLhyphen"/>tinue to their ſaid Majeſties, and the Survivor of Them, during Their Lives, and the Life of the Survivor of Them; And that the Entire, Perfect, and Full Exerciſe of the Regal Power and Government be only in, and executed by his Majeſty, in the Names of both Their Majeſties during Their joynt Lives; And after Their Deceaſes, the ſaid Crown and Pre<g ref="char:EOLhyphen"/>miſſes, ſhall be and remain to the Heirs of the Body of Her Majeſty; And for default of ſuch Iſſue, to Her Royal Highneſs the Princeſs ANNE of <hi>Denmark,</hi> and the Heirs of Her Body; And for default of ſuch Iſſue, to the Heirs of the Body of his ſaid Majeſty: And thereunto the ſaid Lords Spiritual and Temporal, and Commons, do in the Name of all the People aforeſaid, moſt Humbly and Faithfully Submit themſelves, their H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irs and Poſterities for ever; And do faithfully Promiſe, That they will Stand to Maintain, and Defend Their ſaid Majeſties; And alſo the Limitation and Succeſſion of the Crown herein ſpecified and contained to the ut<g ref="char:EOLhyphen"/>moſt of their powers, with their Lives and Eſtates, a<g ref="char:EOLhyphen"/>gainſt all Perſons whatſoever, that ſhall Attempt any thing to the contrary.</p>
+            <p>
+               <pb n="12" facs="tcp:175666:8"/>
+And whereas it hath been found by Expe<g ref="char:EOLhyphen"/>rience, that it is inconſiſtent with the Safety and Welfare of this Proteſtant Kingdom, to be Governed by a Popiſh Prince, or by any King or Queen Marrying a Papiſt, the ſaid Lords Spiritual and Temporal, and Commons, do further Pray that it may be Eancted, That all and every Perſon and Perſons that is, are, or, ſhall be Reconciled to, or ſhall hold Commu<g ref="char:EOLhyphen"/>nion with the See or Church of <hi>Rome,</hi> or ſhall Profeſs the Popiſh Religion, or ſhall Marry a Papiſt, ſhall be Excluded, and be for ever unca<g ref="char:EOLhyphen"/>pable to Inherit, Poſſeſs, or Enjoy the Crown and Government of this Realm and <hi>Ireland,</hi> and the Dominions thereunto belonging or any part of the ſame, or to Have, Uſe, or Ex<g ref="char:EOLhyphen"/>erciſe any Regal Power, Authority, or Juriſ<g ref="char:EOLhyphen"/>diction within the ſame; And in all and eve<g ref="char:EOLhyphen"/>ry ſuch Caſe or Caſes, the People of theſe Realms ſhall be and are hereby Abſolved of their Allegiance; And the ſaid Crown and Government ſhall from time to time Deſcend to, and be Enjoyed by ſuch Perſon or Perſons, being Proteſtants, as ſhould have Inherited and Enjoyed the ſame, in Caſe the ſaid Per<g ref="char:EOLhyphen"/>ſon or Perſons ſo Reconciled, holding Com<g ref="char:EOLhyphen"/>munion,
+<pb n="13" facs="tcp:175666:8"/>or Profeſſing, or Marrying as afore<g ref="char:EOLhyphen"/>ſaid, were naturally Dead.</p>
+            <p>And that every King and Queen of this Realm, who at any time hereafter ſhall come to and ſucceed in the Impertial Crown of this Kingdom, ſhall on the firſt day of the meeting of the firſt Parliament, next after His or Her coming to the Crown, ſitting in His or Her Throne, in the Houſe of Peers, in the preſence of the Lords and Commons therein Aſſembled or at His or Her Coronation, before ſuch Perſon or Perſons who ſhall Adminiſter the Coronation Oath to him or Her, at the time of his or Her taking the ſaid Oath, (which ſhall firſt happen) Make, Subſcribe, and Audi<g ref="char:EOLhyphen"/>bly Repeat the Declaration mentioned in the Statute made in the Thirtieth Year of the Reign of King <hi>Char<g ref="char:EOLhyphen"/>les</hi> the Second, Entituled. <hi>An Act for the more effectual Preſerving the Kings Perſon and Government, by Diſa<g ref="char:EOLhyphen"/>bling Papiſts from ſitting in either Houſe of Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>But if it ſhall happen, that ſuch King or Queen upon His or Her Succeſſion to the Crown of this Realm, ſhall be under the Age of Twelve years, then every ſuch King or Queen ſhall Make, Subſcribe, and audibly Repeat the ſaid Declaration at His or Her Coronation, or the firſt day of the meetting of the firſt Parliament, as aforeſaid which ſhall firſt happen after ſuch King or Queen ſhall have attained the ſaid Age of Twelve Years.</p>
+            <p>
+               <pb n="14" facs="tcp:175666:9"/>
+All which their Majeſties are contented and pleaſed, ſhall be Declared, Enacted, and Eſtabliſhed by Authori<g ref="char:EOLhyphen"/>ty of this preſent Parliament, and ſhall ſtand, remain, and be the Law of this Realm for Ever; And the ſame are by Their ſaid Majeſties, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in Parliament Aſſembled and by the Au<g ref="char:EOLhyphen"/>thority of the ſame Declared, Enacted, and Eſtabli<g ref="char:EOLhyphen"/>ſhed accordingly.</p>
+            <p>And be it further Declared, and Enacted, by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That from and after this preſent Seſ<g ref="char:EOLhyphen"/>ſion of Parliament, no Diſpenſation by <hi>Non obſtante</hi> of or to any Statute, or any part thereof, ſhall be allow<g ref="char:EOLhyphen"/>ed, but that the ſame ſhall be held void and of no effect, Except a Diſpenſation be allowed of in ſuch Statute; and except in ſuch Caſes as ſhall be ſpecially provided for by one or more Bill or Bills to be paſſed during this preſent Seſſion of Parliament.</p>
+            <p>Provided that no Charter, or Grant, or Pardon granted before the Three and twentieth day of <hi>October,</hi> in the Year of our Lord One thouſand Six hundred eigh<g ref="char:EOLhyphen"/>ty nine, ſhall be any ways Impeached or Invalidated by this Act, but that the ſame ſhall be and remain of the ſame force and effect in Law and no other than as if this Act had never been made.</p>
+            <pb facs="tcp:175666:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
